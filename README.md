@@ -11,7 +11,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn
 Machine Learning Models: Random Forest, Logistic Regression, XGBoost (Ensemble Learning)
 Resampling Techniques: SMOTE (Synthetic Minority Over-sampling Technique)
 Data Processing: Feature Engineering, Standardization, One-Hot Encoding
-Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
+Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix  
     🚀 PROJECT WORKFLOW   
 Data Preprocessing
 
@@ -34,8 +34,8 @@ Final Results
 
 Best Model: Random Forest + SMOTE
 Churn Class F1-score: 0.79 (Significant improvement after resampling)
-Overall Accuracy: 81%
-📈 RESULTS AND INSIGHTS    
+Overall Accuracy: 81%    
+ 📈 RESULTS AND INSIGHTS    
 The churn prediction model improved significantly after balancing the dataset using SMOTE.
 Monthly charges, tenure, and contract type were the most influential features affecting churn.
 Ensemble models outperformed single models like logistic regression, showing a better recall score for churned customers.
