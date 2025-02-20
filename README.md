@@ -12,7 +12,7 @@ Machine Learning Models: Random Forest, Logistic Regression, XGBoost (Ensemble L
 Resampling Techniques: SMOTE (Synthetic Minority Over-sampling Technique)
 Data Processing: Feature Engineering, Standardization, One-Hot Encoding
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
-🚀 PROJECT WORKFLOW   
+    🚀 PROJECT WORKFLOW   
 Data Preprocessing
 
 Handle missing values
